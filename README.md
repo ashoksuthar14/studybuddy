@@ -1,2 +1,3 @@
 # studybuddy
-a chat buddy to help you chat with multiple pdf
+A chat buddy to help you chat with multiple pdf
+https://chatwithpdfstudybuddy.streamlit.app/
